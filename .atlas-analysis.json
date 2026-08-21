@@ -1,0 +1,53 @@
+{
+  "projectType": "saas",
+  "projectName": "Tega Cay Bin Blasters",
+  "projectDescription": "Professional trash and recycle bin cleaning service for homes and businesses in Tega Cay, SC — offering one-time, recurring, and commercial cleaning plans.",
+  "theme": "almond",
+  "primaryColor": "#ef7025",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "introduction",
+          "how-it-works",
+          "service-area"
+        ]
+      },
+      {
+        "group": "Services & Pricing",
+        "pages": [
+          "services/one-time-cleaning",
+          "services/recurring-plans",
+          "services/commercial",
+          "services/add-ons"
+        ]
+      },
+      {
+        "group": "Booking",
+        "pages": [
+          "booking/how-to-book",
+          "booking/payment",
+          "booking/faq"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "One-time bin cleaning for 1–4+ cans starting at $10",
+    "Monthly and quarterly recurring cleaning plans",
+    "Commercial and small business bin cleaning from $45",
+    "Interior and exterior wash with hot water, disinfectant, and deodorizer",
+    "Optional add-ons: Deep Clean, Extra Can, Odor Bomb + Sanitize",
+    "Online booking with Venmo and card payment options",
+    "Service in Tega Cay, SC and surrounding areas"
+  ],
+  "publicApiSurface": [
+    "Book online at tegacaybinblasters.com",
+    "Pay via Venmo @Micah_collins36",
+    "Pay by card via Square payment links",
+    "Contact via email: tegacaybinblasters@yahoo.com"
+  ]
+}
